@@ -1,0 +1,5 @@
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.Model\bin\Debug\ResultatPartnerAS.Model.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.Model\bin\Debug\ResultatPartnerAS.Model.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.Model\obj\Debug\ResultatPartnerAS.Model.csprojResolveAssemblyReference.cache
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.Model\obj\Debug\ResultatPartnerAS.Model.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.Model\obj\Debug\ResultatPartnerAS.Model.pdb

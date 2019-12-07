@@ -1,0 +1,13 @@
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Debug\ResultatPartnerAS.IBLL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Debug\ResultatPartnerAS.IBLL.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Debug\ResultatPartnerAS.Model.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Debug\ResultatPartnerAS.Model.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\obj\Debug\ResultatPartnerAS.IBLL.csprojResolveAssemblyReference.cache
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\obj\Debug\ResultatPartnerAS.IBLL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\obj\Debug\ResultatPartnerAS.IBLL.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Debug\ResultatPartnerAS.IBLL.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Debug\ResultatPartnerAS.IBLL.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Debug\ResultatPartnerAS.Model.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Debug\ResultatPartnerAS.Model.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\obj\Debug\ResultatPartnerAS.IBLL.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\obj\Debug\ResultatPartnerAS.IBLL.pdb

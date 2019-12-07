@@ -1,0 +1,8 @@
+Schema specified is not valid. Errors: 
+ResultatPartnerModal.ssdl(2,2) : error 0152: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+Schema specified is not valid. Errors: 
+ResultatPartnerModal.ssdl(2,2) : error 0152: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+Schema specified is not valid. Errors: 
+ResultatPartnerModal.ssdl(2,2) : error 0152: No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+ResultatPartnerASAPI.Filters.APIAuthorize.AuthorizeRequest:Course/GetAllCourses : No Access
+ResultatPartnerASAPI.Filters.APIAuthorize.AuthorizeRequest:Course/GetAllCourses : No Access

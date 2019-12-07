@@ -1,0 +1,31 @@
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerASAPI.BL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerASAPI.BL.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\EntityFramework.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerAS.IBLL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerAS.Model.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerASAPI.Data.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerAS.IBLL.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerAS.Model.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerASAPI.Data.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerASAPI.Data.dll.config
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\EntityFramework.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\obj\Debug\ResultatPartnerASAPI.BL.csprojResolveAssemblyReference.cache
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\obj\Debug\ResultatPartnerASAPI.BL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\obj\Debug\ResultatPartnerASAPI.BL.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerASAPI.BL.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerASAPI.BL.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\EntityFramework.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerAS.IBLL.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerAS.Model.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerASAPI.Data.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerAS.IBLL.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerAS.Model.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\ResultatPartnerASAPI.Data.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\EntityFramework.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\obj\Debug\ResultatPartnerASAPI.BL.csprojResolveAssemblyReference.cache
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\obj\Debug\ResultatPartnerASAPI.BL.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\obj\Debug\ResultatPartnerASAPI.BL.pdb

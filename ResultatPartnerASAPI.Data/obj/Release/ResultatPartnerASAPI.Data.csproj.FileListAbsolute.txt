@@ -1,0 +1,10 @@
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\bin\Release\ResultatPartnerASAPI.Data.dll.config
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\bin\Release\ResultatPartnerASAPI.Data.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\bin\Release\ResultatPartnerASAPI.Data.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\bin\Release\EntityFramework.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\bin\Release\EntityFramework.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\obj\Release\ResultatPartnerASAPI.Data.csprojResolveAssemblyReference.cache
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\obj\Release\ResultatPartnerASAPI.Data.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.Data\obj\Release\ResultatPartnerASAPI.Data.pdb

@@ -1,0 +1,191 @@
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ApplicationInsights.config
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csc.exe
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csc.exe.config
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csc.rsp
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csi.exe
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csi.rsp
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.AppContext.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\vbc.exe
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\vbc.exe.config
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\vbc.rsp
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\VBCSCompiler.exe
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.dll.config
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Antlr3.Runtime.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\EntityFramework.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\EntityFramework.SqlServer.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.Web.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.ApplicationInsights.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Newtonsoft.Json.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.Web.Common.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.Web.Mvc.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerAS.IBLL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerAS.Model.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.BL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.Data.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Net.Http.Formatting.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Cors.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Helpers.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.Cors.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.WebHost.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Mvc.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Optimization.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Razor.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.Deployment.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.Razor.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\WebActivatorEx.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\WebGrease.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerAS.IBLL.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerAS.Model.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.BL.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.Data.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.Data.dll.config
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\EntityFramework.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\EntityFramework.SqlServer.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.Web.Common.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.Web.Mvc.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.Cors.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Newtonsoft.Json.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Net.Http.Formatting.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Helpers.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.WebHost.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Mvc.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Optimization.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Razor.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.Deployment.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.Razor.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Antlr3.Runtime.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.ApplicationInsights.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.Web.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\obj\Debug\ResultatPartnerASAPI.csprojResolveAssemblyReference.cache
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\obj\Debug\ResultatPartnerASAPI.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI\obj\Debug\ResultatPartnerASAPI.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ApplicationInsights.config
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csc.exe
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csc.exe.config
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csc.rsp
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csi.exe
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\csi.rsp
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.AppContext.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\vbc.exe
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\vbc.exe.config
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\vbc.rsp
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.dll.config
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Antlr3.Runtime.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\EntityFramework.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.Web.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Newtonsoft.Json.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.Web.Common.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.Web.Mvc.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerAS.IBLL.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerAS.Model.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.BL.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.Data.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Cors.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Helpers.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.Cors.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Mvc.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Optimization.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Razor.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\WebActivatorEx.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\WebGrease.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerAS.IBLL.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerAS.Model.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.BL.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\ResultatPartnerASAPI.Data.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\EntityFramework.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.Web.Common.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Ninject.Web.Mvc.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.Cors.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Newtonsoft.Json.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Helpers.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Mvc.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Optimization.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.Razor.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Antlr3.Runtime.pdb
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\bin\Microsoft.AI.Web.xml
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\obj\Debug\ResultatPartnerASAPI.csprojResolveAssemblyReference.cache
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\obj\Debug\ResultatPartnerASAPI.dll
+C:\Users\WEBASHLAR1\Desktop\Resultat AS - Developer Quality Test\ResultatPartnerASAPI\ResultatPartnerASAPI\obj\Debug\ResultatPartnerASAPI.pdb

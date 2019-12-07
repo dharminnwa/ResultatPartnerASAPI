@@ -1,0 +1,7 @@
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Release\ResultatPartnerAS.IBLL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Release\ResultatPartnerAS.IBLL.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Release\ResultatPartnerAS.Model.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\bin\Release\ResultatPartnerAS.Model.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\obj\Release\ResultatPartnerAS.IBLL.csprojResolveAssemblyReference.cache
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\obj\Release\ResultatPartnerAS.IBLL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.IBLL\obj\Release\ResultatPartnerAS.IBLL.pdb

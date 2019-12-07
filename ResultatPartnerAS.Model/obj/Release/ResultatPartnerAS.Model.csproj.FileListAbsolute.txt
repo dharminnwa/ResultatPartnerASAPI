@@ -1,0 +1,4 @@
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.Model\bin\Release\ResultatPartnerAS.Model.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.Model\bin\Release\ResultatPartnerAS.Model.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.Model\obj\Release\ResultatPartnerAS.Model.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerAS.Model\obj\Release\ResultatPartnerAS.Model.pdb

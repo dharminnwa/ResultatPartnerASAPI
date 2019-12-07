@@ -1,0 +1,16 @@
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\ResultatPartnerASAPI.BL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\ResultatPartnerASAPI.BL.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\EntityFramework.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\EntityFramework.SqlServer.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\ResultatPartnerAS.IBLL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\ResultatPartnerAS.Model.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\ResultatPartnerASAPI.Data.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\ResultatPartnerAS.IBLL.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\ResultatPartnerAS.Model.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\ResultatPartnerASAPI.Data.pdb
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\ResultatPartnerASAPI.Data.dll.config
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\EntityFramework.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\bin\Release\EntityFramework.SqlServer.xml
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\obj\Release\ResultatPartnerASAPI.BL.csprojResolveAssemblyReference.cache
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\obj\Release\ResultatPartnerASAPI.BL.dll
+D:\DotNetProjects\ResultatPartnerASAPI\ResultatPartnerASAPI.BL\obj\Release\ResultatPartnerASAPI.BL.pdb
